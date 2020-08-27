@@ -1,0 +1,4 @@
+make
+
+
+./iw dev wlan0 scan > blabla.yaml
